@@ -1,0 +1,31 @@
+{
+  "data":[
+      {
+          "folder": "story", 
+          "files":[
+              {
+                  "filename":"index",
+                  "id":"1996",
+                  "lid":"07",
+                  "title":"故事标题",
+                  "keywords":"故事关键字", "description":"故事描述文本",
+                  "url":"故事的链接https://www.google.com/"
+              }
+          ]
+          
+      },
+      {
+          "folder":"fairy",
+          "files": [
+              {
+                  "filename":"index",
+                  "id":"1996",
+                  "lid":"01",
+                  "title":"童话标题",
+                  "keywords":"童话关键字", "description":"童话描述文本",
+                  "url":"童话的链接https://www.baidu.com/"
+              }
+          ]
+      }
+  ]
+}
